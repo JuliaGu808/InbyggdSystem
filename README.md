@@ -1,2 +1,3 @@
-# InbyggdSystem
-RaspberryPi4, PIR, PiCamera, python3
+# InbyggedProj
+
+<img src="foto.jpg">
